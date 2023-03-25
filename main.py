@@ -1,5 +1,5 @@
 son = float(input("Juft son kiriting: "))
-if not son%2==0:
-    print("Bu son juft emas.")
+if son%2==0:
+    print("Rahmat")
 else:
-    print("Rahmat!")
+    print("Bu son juft emas.")
